@@ -10,8 +10,5 @@ def get_feedback():
     filtered = [entry for entry in data if entry['location'] == 'Boise' and 'Firmware' in entry['job_title']]
     return jsonify(filtered)
 
-import os
-
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 10000))
-    app.run(host='0.0.0.0', port=port, debug=True)
+    app.run(debug=True)
