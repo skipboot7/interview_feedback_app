@@ -1,0 +1,34 @@
+[
+  {
+    "candidate_name": "Jane Doe",
+    "job_title": "Firmware Engineer",
+    "location": "Boise",
+    "interviewer": "John Smith",
+    "feedback": "Strong technical skills, good culture fit.",
+    "score": 4.5
+  },
+  {
+    "candidate_name": "Alex Johnson",
+    "job_title": "Firmware Developer",
+    "location": "Boise",
+    "interviewer": "Emily Davis",
+    "feedback": "Excellent problem-solving, needs improvement in communication.",
+    "score": 4.0
+  },
+  {
+    "candidate_name": "Maria Chen",
+    "job_title": "Software Engineer",
+    "location": "Seattle",
+    "interviewer": "Michael Brown",
+    "feedback": "Not relevant to firmware role.",
+    "score": 3.0
+  },
+  {
+    "candidate_name": "Tom Lee",
+    "job_title": "Firmware Engineer",
+    "location": "Boise",
+    "interviewer": "Sarah Wilson",
+    "feedback": "Great experience with embedded systems.",
+    "score": 4.8
+  }
+]
